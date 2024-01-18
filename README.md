@@ -23,11 +23,10 @@ _(better screenshots would be appreciated as well, my ROM doesn't support everyt
 
 ### BetterChatbox
 **General**
-- Use Old Gallery Icon
-- Use Small Gallery Button
-- Always Show Send Button
+- Use Old / Small Gallery Icon: Disabled
 - Avatar Display Mode: Normal
-
+- Avatar On Press Mode: Add Attachment
+  
 **Radii**
 - Avatar Radius: 27
 - Chatbox Radius: 30
