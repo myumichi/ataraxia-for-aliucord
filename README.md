@@ -3,9 +3,6 @@
 > [!Note]
 > This is a port of a Vendetta Theme. If you would like to download the original theme, click [here.](filler.com)
 
-## Themer Settings
-- Transparency mode set to Chat
-
 ## Miscellanous
 ### Unthemed Elements
 If you notice that anything seems missing / unthemed, please ping me (@nyraki) in the [Aliucord](discord.gg/EsNDvBaHVU) server within the #theme-development channel!
