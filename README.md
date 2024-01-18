@@ -1,18 +1,18 @@
 ![Header](previews/Untitled27_20240117213059.png)
 
 > [!Note]
-> This is a port of a Vendetta Theme. If you would like to download the original theme, click here.
+> This is a port of a Vendetta Theme. If you would like to download the original theme, click [here.](filler.com)
 
 ## Themer Settings
 - Transparency mode set to Chat
 
 ## Miscellanous
 ### Unthemed Elements
-If you notice that anything seems missing / unthemed, please ping me (@nyraki) in the Aliucord Support server within the #theme-development channel!
+If you notice that anything seems missing / unthemed, please ping me (@nyraki) in the [Aliucord](discord.gg/EsNDvBaHVU) server within the #theme-development channel!
 _(better screenshots would be appreciated as well, my ROM doesn't support everything)_
 
 ### Changelog
-> Ataraxia's changelog can be found here. 
+> Ataraxia's changelog can be found [here.](https://github.com/myumichi/ataraxia-for-aliucord/blob/main/CHANGELOG.md)
 
 ## Plugin Settings
 ### Themer
