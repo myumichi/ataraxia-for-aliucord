@@ -1,7 +1,7 @@
 ![Header](previews/Untitled27_20240117213059.png)
 
 > [!Note]
-> This is a port of a Vendetta Theme. If you would like to download the original theme, click [here.](filler.com)
+> This is a port of a Vendetta Theme. If you would like to download the original theme, click [here.](https://raw.githubusercontent.com/VodkaXMartini/VendettaTheme/main/Ataraxia.json)
 
 ## Miscellanous
 ### Unthemed Elements
